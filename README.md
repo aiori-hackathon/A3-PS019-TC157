@@ -5,3 +5,4 @@ https://youtu.be/HX0OZaokit8?si=GdTbS63nllxbtPx_
 
 ###Live Demo
 **Live Demo:** https://aegis-privacy.streamlit.app/
+**Full documentation:** see [PROJECT_README.md](PROJECT_README.md), [report.md](report.md) and [pseudocode.md](pseudocode.md)
