@@ -1,0 +1,109 @@
+version: 1.0.0
+weights:
+  column_name: 0.35
+  value_pattern: 0.4
+  algorithmic_validation: 0.25
+thresholds:
+  high: 0.75
+  medium: 0.45
+  low: 0.25
+rules:
+  name:
+    description: Individual human names (first, last, full)
+    column_patterns:
+    - ^(first|last|full|sur|user|cust|client|emp|patient|beneficiary|lead)_?name$
+    - ^name$
+    - name_of_
+    - _name$
+    - contact_person
+    negative_column_patterns:
+    - product
+    - item
+    - file
+    - table
+    - column
+    - col
+    - schema
+    - category
+    - brand
+    - device
+    - app
+    - company
+    - vendor_name
+    - org_name
+  email:
+    description: Personal and enterprise email addresses
+    column_patterns:
+    - email
+    - e_mail
+    - mail_id
+    - user_mail
+    - contact_email
+    - work_email
+    - personal_email
+    negative_column_patterns:
+    - email_status
+    - is_email_verified
+    - bounced
+    - email_template
+  phone:
+    description: Indian contact mobile numbers and telephone numbers
+    column_patterns:
+    - phone
+    - mobile
+    - contact_no
+    - contact_num
+    - cell
+    - tel
+    - telephone
+    - phone_number
+    - mobile_no
+    negative_column_patterns:
+    - fax_status
+    - phone_type
+    - is_phone_verified
+    - pin_code
+    - postal
+    - zip
+  government_id:
+    description: Indian statutory identifiers (Aadhaar with Verhoeff, PAN Card)
+    column_patterns:
+    - aadhaar
+    - aadhar
+    - uidai
+    - uid
+    - pan
+    - pan_number
+    - pan_card
+    - govt_id
+    - tax_id
+    negative_column_patterns:
+    - order_id
+    - transaction_id
+    - tracking_id
+    - product_id
+    - session_id
+    - sku
+    - uuid
+  dob:
+    description: Date of Birth records (human age plausible dates)
+    column_patterns:
+    - dob
+    - birth
+    - date_of_birth
+    - birth_date
+    - birthdate
+    - bday
+    - natal_date
+    - born_on
+    negative_column_patterns:
+    - created_at
+    - updated_at
+    - modified
+    - timestamp
+    - event_date
+    - transaction_date
+    - expiry
+    - login_time
+    - order_date
+    - delivery_date

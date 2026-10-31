@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary and Cache directories
+temp/
+pip-cache/
+.cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQLite local working files / locks (keep repo database clean)
+*.db-journal
+*.db-wal
+*.db-shm

@@ -1,0 +1,121 @@
+ticket_id,customer_name,registered_email,ticket_category,assigned_agent,created_at,phone_support_num,resolution_status
+TCK-20000,Aditya Iyer,ticket_user0@yahoo.co.in,Billing Discrepancy,Krishna Patel,2026-10-17 09:15:30,+91-87242-64236,In-Progress
+TCK-20001,Riya Patel,ticket_user1@enterprise.in,Billing Discrepancy,Kavya Verma,2026-10-19 09:15:30,74876-23039,Open
+TCK-20002,Aditya Reddy,ticket_user2@cybercorp.org,Technical Login Error,Myra Reddy,2026-10-25 09:15:30,+91 98522 82305,Resolved
+TCK-20003,Riya Sharma,ticket_user3@gmail.com,Account Closure,Arjun Iyer,2026-10-02 09:15:30,09223959473,In-Progress
+TCK-20004,Vikram Reddy,ticket_user4@enterprise.in,Technical Login Error,Rajesh Pillai,2026-10-25 09:15:30,61620 47876,Closed
+TCK-20005,Suresh Choudhury,ticket_user5@globalinfra.net,KYC Document Clarification,Deepa Pillai,2026-10-19 09:15:30,9486287203,Resolved
+TCK-20006,Rahul Chatterjee,ticket_user6@yahoo.co.in,Account Closure,Aanya Joshi,2026-10-10 09:15:30,80573 03627,In-Progress
+TCK-20007,Rajesh Chatterjee,ticket_user7@techsecure.co.in,Technical Login Error,Arjun Sharma,2026-10-08 09:15:30,09476775372,Open
+TCK-20008,Ayaan Nair,ticket_user8@yahoo.co.in,KYC Document Clarification,Saanvi Verma,2026-10-12 09:15:30,9661945887,Closed
+TCK-20009,Aditya Mehta,ticket_user9@fintechvault.com,Technical Login Error,Ishaan Choudhury,2026-10-06 09:15:30,+91-61284-00838,Open
+TCK-20010,Pari Joshi,ticket_user10@fintechvault.com,Account Closure,Saanvi Pillai,2026-10-11 09:15:30,8508917768,Open
+TCK-20011,Arjun Joshi,ticket_user11@fintechvault.com,Account Closure,Sunita Deshmukh,2026-10-05 09:15:30,+91-73196-46300,Open
+TCK-20012,Arjun Rao,ticket_user12@techsecure.co.in,Technical Login Error,Aadhya Nair,2026-10-14 09:15:30,08301204713,In-Progress
+TCK-20013,Meena Kumar,ticket_user13@yahoo.co.in,Billing Discrepancy,Pooja Singh,2026-10-11 09:15:30,87498-85582,Resolved
+TCK-20014,Deepa Pillai,ticket_user14@enterprise.in,Technical Login Error,Rahul Sharma,2026-10-14 09:15:30,+91-94584-76094,Open
+TCK-20015,Rahul Nair,ticket_user15@enterprise.in,Technical Login Error,Suresh Gupta,2026-10-15 09:15:30,+91-71885-66695,Open
+TCK-20016,Ayaan Iyer,ticket_user16@globalinfra.net,Billing Discrepancy,Amit Bose,2026-10-02 09:15:30,+91-96626-70551,In-Progress
+TCK-20017,Ananya Kumar,ticket_user17@techsecure.co.in,Technical Login Error,Aanya Kulkarni,2026-10-08 09:15:30,8392529596,Open
+TCK-20018,Aditya Patel,ticket_user18@gmail.com,Technical Login Error,Myra Kulkarni,2026-10-16 09:15:30,62007-20245,Resolved
+TCK-20019,Pooja Menon,ticket_user19@yahoo.co.in,Billing Discrepancy,Sai Chatterjee,2026-10-11 09:15:30,06091090326,Open
+TCK-20020,Krishna Menon,ticket_user20@cybercorp.org,Billing Discrepancy,Rahul Pillai,2026-10-10 09:15:30,+91 71794 28179,Resolved
+TCK-20021,Vivaan Joshi,ticket_user21@fintechvault.com,Technical Login Error,Vikram Kumar,2026-10-15 09:15:30,+91 88446 63453,Closed
+TCK-20022,Arjun Nair,ticket_user22@gmail.com,Billing Discrepancy,Vivaan Menon,2026-10-04 09:15:30,+91 71722 14559,Closed
+TCK-20023,Aadhya Kulkarni,ticket_user23@yahoo.co.in,KYC Document Clarification,Meena Rao,2026-10-16 09:15:30,06526351004,In-Progress
+TCK-20024,Rahul Kumar,ticket_user24@globalinfra.net,Account Closure,Deepa Bose,2026-10-15 09:15:30,7565920246,Closed
+TCK-20025,Suresh Bose,ticket_user25@outlook.com,Billing Discrepancy,Suresh Nair,2026-10-08 09:15:30,+91-94326-00559,Resolved
+TCK-20026,Aarav Reddy,ticket_user26@globalinfra.net,Technical Login Error,Reyansh Nair,2026-10-11 09:15:30,08868999360,Resolved
+TCK-20027,Myra Singh,ticket_user27@gmail.com,KYC Document Clarification,Diya Sharma,2026-10-14 09:15:30,06767993593,Resolved
+TCK-20028,Ishaan Verma,ticket_user28@enterprise.in,KYC Document Clarification,Aanya Deshmukh,2026-10-01 09:15:30,+91-70373-60601,Closed
+TCK-20029,Aarav Choudhury,ticket_user29@cybercorp.org,Billing Discrepancy,Ananya Menon,2026-10-07 09:15:30,81368-52830,Closed
+TCK-20030,Aditya Bose,ticket_user30@enterprise.in,Account Closure,Aarav Reddy,2026-10-05 09:15:30,8244626325,Resolved
+TCK-20031,Ishaan Bhatt,ticket_user31@yahoo.co.in,Billing Discrepancy,Arjun Reddy,2026-10-01 09:15:30,07142175188,Open
+TCK-20032,Ananya Pillai,ticket_user32@cybercorp.org,Billing Discrepancy,Saanvi Patel,2026-10-12 09:15:30,+91 76384 09112,Resolved
+TCK-20033,Sai Choudhury,ticket_user33@enterprise.in,Account Closure,Meena Mehta,2026-10-01 09:15:30,86618-63239,Closed
+TCK-20034,Amit Menon,ticket_user34@yahoo.co.in,Technical Login Error,Rahul Kumar,2026-10-18 09:15:30,96553 00730,Resolved
+TCK-20035,Aarav Mehta,ticket_user35@fintechvault.com,Account Closure,Sunita Sharma,2026-10-11 09:15:30,09121988192,Closed
+TCK-20036,Myra Bhatt,ticket_user36@fintechvault.com,Billing Discrepancy,Kavya Verma,2026-10-21 09:15:30,83486-40104,In-Progress
+TCK-20037,Vikram Deshmukh,ticket_user37@techsecure.co.in,Technical Login Error,Krishna Bose,2026-10-14 09:15:30,+91-68517-44600,Resolved
+TCK-20038,Sai Patel,ticket_user38@outlook.com,Billing Discrepancy,Saanvi Reddy,2026-10-04 09:15:30,8551293913,Resolved
+TCK-20039,Ishaan Bhatt,ticket_user39@yahoo.co.in,KYC Document Clarification,Meena Bhatt,2026-10-22 09:15:30,+91 81604 61540,Open
+TCK-20040,Vihaan Menon,ticket_user40@gmail.com,Billing Discrepancy,Suresh Kumar,2026-10-02 09:15:30,9568142983,Resolved
+TCK-20041,Sai Iyer,ticket_user41@yahoo.co.in,Billing Discrepancy,Ananya Rao,2026-10-24 09:15:30,07283608493,In-Progress
+TCK-20042,Vivaan Kulkarni,ticket_user42@enterprise.in,Account Closure,Reyansh Choudhury,2026-10-10 09:15:30,8269694439,Closed
+TCK-20043,Krishna Pillai,ticket_user43@globalinfra.net,Billing Discrepancy,Vihaan Joshi,2026-10-19 09:15:30,+91 74292 91320,In-Progress
+TCK-20044,Sunita Verma,ticket_user44@yahoo.co.in,Account Closure,Arjun Rao,2026-10-09 09:15:30,06903106153,In-Progress
+TCK-20045,Arjun Reddy,ticket_user45@fintechvault.com,KYC Document Clarification,Aadhya Joshi,2026-10-22 09:15:30,08732365337,Resolved
+TCK-20046,Aadhya Verma,ticket_user46@cybercorp.org,Billing Discrepancy,Aadhya Singh,2026-10-06 09:15:30,+91-60784-36142,Resolved
+TCK-20047,Sai Kulkarni,ticket_user47@gmail.com,Account Closure,Deepa Choudhury,2026-10-03 09:15:30,+91 95437 34764,Closed
+TCK-20048,Ayaan Singh,ticket_user48@outlook.com,Billing Discrepancy,Amit Gupta,2026-10-21 09:15:30,+91-96388-21458,Open
+TCK-20049,Krishna Choudhury,ticket_user49@cybercorp.org,Account Closure,Aarav Patel,2026-10-19 09:15:30,63443-89982,Closed
+TCK-20050,Riya Sharma,ticket_user50@outlook.com,Billing Discrepancy,Diya Bhatt,2026-10-14 09:15:30,80732 14644,In-Progress
+TCK-20051,Rajesh Joshi,ticket_user51@fintechvault.com,Billing Discrepancy,Aanya Kumar,2026-10-20 09:15:30,07350557385,In-Progress
+TCK-20052,Aadhya Bhatt,ticket_user52@gmail.com,Billing Discrepancy,Vihaan Menon,2026-10-05 09:15:30,07603768118,In-Progress
+TCK-20053,Ayaan Rao,ticket_user53@enterprise.in,KYC Document Clarification,Vihaan Verma,2026-10-09 09:15:30,+91 69614 97315,Open
+TCK-20054,Aditya Deshmukh,ticket_user54@enterprise.in,Billing Discrepancy,Ananya Deshmukh,2026-10-18 09:15:30,+91 70736 51189,Resolved
+TCK-20055,Aarav Kulkarni,ticket_user55@fintechvault.com,KYC Document Clarification,Amit Singh,2026-10-18 09:15:30,70190-43223,Open
+TCK-20056,Sunita Iyer,ticket_user56@enterprise.in,Technical Login Error,Reyansh Nair,2026-10-10 09:15:30,90739-20135,Resolved
+TCK-20057,Rahul Kulkarni,ticket_user57@outlook.com,Billing Discrepancy,Rahul Iyer,2026-10-16 09:15:30,+91 90250 82611,In-Progress
+TCK-20058,Aditya Nair,ticket_user58@techsecure.co.in,Billing Discrepancy,Aadhya Gupta,2026-10-23 09:15:30,74888 99572,In-Progress
+TCK-20059,Pari Kulkarni,ticket_user59@outlook.com,Account Closure,Krishna Bose,2026-10-09 09:15:30,7036468719,In-Progress
+TCK-20060,Suresh Verma,ticket_user60@enterprise.in,Billing Discrepancy,Myra Kumar,2026-10-13 09:15:30,70828 32308,Open
+TCK-20061,Ayaan Bhatt,ticket_user61@yahoo.co.in,KYC Document Clarification,Riya Bhatt,2026-10-03 09:15:30,+91 84582 20673,In-Progress
+TCK-20062,Vikram Patel,ticket_user62@outlook.com,Account Closure,Aditya Kulkarni,2026-10-24 09:15:30,65724-50000,Open
+TCK-20063,Priya Sharma,ticket_user63@yahoo.co.in,KYC Document Clarification,Sai Menon,2026-10-03 09:15:30,63717-85090,In-Progress
+TCK-20064,Saanvi Bose,ticket_user64@techsecure.co.in,Billing Discrepancy,Deepa Choudhury,2026-10-21 09:15:30,08442182998,Resolved
+TCK-20065,Ananya Choudhury,ticket_user65@yahoo.co.in,Technical Login Error,Sai Chatterjee,2026-10-17 09:15:30,65670 86700,Open
+TCK-20066,Aarav Deshmukh,ticket_user66@enterprise.in,Account Closure,Saanvi Bose,2026-10-03 09:15:30,08848266913,In-Progress
+TCK-20067,Deepa Deshmukh,ticket_user67@enterprise.in,KYC Document Clarification,Saanvi Verma,2026-10-12 09:15:30,+91 82960 80706,In-Progress
+TCK-20068,Aadhya Pillai,ticket_user68@globalinfra.net,KYC Document Clarification,Deepa Sharma,2026-10-25 09:15:30,7210401648,Open
+TCK-20069,Krishna Deshmukh,ticket_user69@outlook.com,Account Closure,Ananya Gupta,2026-10-17 09:15:30,+91 76381 64321,Closed
+TCK-20070,Kavya Chatterjee,ticket_user70@outlook.com,KYC Document Clarification,Aadhya Chatterjee,2026-10-06 09:15:30,+91-63625-86314,Open
+TCK-20071,Pari Verma,ticket_user71@techsecure.co.in,KYC Document Clarification,Rajesh Joshi,2026-10-06 09:15:30,85402-63558,In-Progress
+TCK-20072,Ishaan Rao,ticket_user72@gmail.com,Billing Discrepancy,Ananya Joshi,2026-10-10 09:15:30,+91-94489-88031,In-Progress
+TCK-20073,Myra Choudhury,ticket_user73@outlook.com,KYC Document Clarification,Diya Nair,2026-10-15 09:15:30,+91-65040-43333,In-Progress
+TCK-20074,Rahul Choudhury,ticket_user74@cybercorp.org,KYC Document Clarification,Suresh Reddy,2026-10-13 09:15:30,72111 97871,Open
+TCK-20075,Kavya Rao,ticket_user75@enterprise.in,Billing Discrepancy,Rajesh Rao,2026-10-16 09:15:30,72653 06011,Closed
+TCK-20076,Amit Bose,ticket_user76@techsecure.co.in,Billing Discrepancy,Pari Choudhury,2026-10-14 09:15:30,6023009156,In-Progress
+TCK-20077,Rahul Pillai,ticket_user77@gmail.com,Technical Login Error,Vikram Joshi,2026-10-11 09:15:30,09744916093,Resolved
+TCK-20078,Kavya Mehta,ticket_user78@outlook.com,Billing Discrepancy,Aditya Chatterjee,2026-10-20 09:15:30,06189418433,Closed
+TCK-20079,Diya Sharma,ticket_user79@outlook.com,Account Closure,Reyansh Iyer,2026-10-24 09:15:30,+91-73998-21374,Resolved
+TCK-20080,Aadhya Patel,ticket_user80@yahoo.co.in,KYC Document Clarification,Meena Verma,2026-10-23 09:15:30,08288605053,Closed
+TCK-20081,Aadhya Kulkarni,ticket_user81@gmail.com,Billing Discrepancy,Vihaan Nair,2026-10-14 09:15:30,6030835669,Open
+TCK-20082,Aanya Nair,ticket_user82@globalinfra.net,Billing Discrepancy,Diya Rao,2026-10-04 09:15:30,07345506882,Open
+TCK-20083,Ananya Kumar,ticket_user83@techsecure.co.in,Technical Login Error,Kavya Rao,2026-10-17 09:15:30,+91 84013 48087,Resolved
+TCK-20084,Ishaan Gupta,ticket_user84@globalinfra.net,Technical Login Error,Aadhya Verma,2026-10-07 09:15:30,7591015709,Resolved
+TCK-20085,Sneha Menon,ticket_user85@yahoo.co.in,KYC Document Clarification,Ishaan Menon,2026-10-06 09:15:30,67492 69996,Closed
+TCK-20086,Priya Chatterjee,ticket_user86@globalinfra.net,Billing Discrepancy,Suresh Choudhury,2026-10-10 09:15:30,7859693259,Resolved
+TCK-20087,Aarav Choudhury,ticket_user87@cybercorp.org,Technical Login Error,Sai Rao,2026-10-04 09:15:30,73426 69806,Open
+TCK-20088,Myra Kumar,ticket_user88@outlook.com,Account Closure,Rajesh Reddy,2026-10-15 09:15:30,+91 90723 48389,Resolved
+TCK-20089,Pooja Pillai,ticket_user89@fintechvault.com,Technical Login Error,Suresh Choudhury,2026-10-05 09:15:30,+91-64056-12996,Open
+TCK-20090,Myra Nair,ticket_user90@techsecure.co.in,KYC Document Clarification,Myra Nair,2026-10-14 09:15:30,8186965613,Closed
+TCK-20091,Deepa Kulkarni,ticket_user91@yahoo.co.in,Technical Login Error,Amit Rao,2026-10-17 09:15:30,+91 89514 34682,Resolved
+TCK-20092,Priya Choudhury,ticket_user92@cybercorp.org,Billing Discrepancy,Priya Sharma,2026-10-06 09:15:30,9300869661,Open
+TCK-20093,Rahul Joshi,ticket_user93@enterprise.in,Billing Discrepancy,Aditya Rao,2026-10-20 09:15:30,+91-80016-80941,Open
+TCK-20094,Priya Bose,ticket_user94@gmail.com,Account Closure,Aadhya Iyer,2026-10-21 09:15:30,7976205344,Closed
+TCK-20095,Pari Singh,ticket_user95@cybercorp.org,Account Closure,Sai Verma,2026-10-23 09:15:30,9266292508,Closed
+TCK-20096,Sunita Kumar,ticket_user96@techsecure.co.in,Billing Discrepancy,Sai Menon,2026-10-23 09:15:30,+91 64068 84133,Closed
+TCK-20097,Ayaan Patel,ticket_user97@outlook.com,KYC Document Clarification,Saanvi Iyer,2026-10-07 09:15:30,86178-17032,Open
+TCK-20098,Aditya Pillai,ticket_user98@outlook.com,Billing Discrepancy,Aanya Reddy,2026-10-08 09:15:30,09385277895,Open
+TCK-20099,Reyansh Rao,ticket_user99@globalinfra.net,Billing Discrepancy,Suresh Bhatt,2026-10-10 09:15:30,+91-84902-95026,Open
+TCK-20100,Rahul Reddy,ticket_user100@techsecure.co.in,KYC Document Clarification,Ishaan Verma,2026-10-08 09:15:30,93416-78127,Closed
+TCK-20101,Pooja Choudhury,ticket_user101@outlook.com,Technical Login Error,Aditya Sharma,2026-10-06 09:15:30,+91 67982 13486,Resolved
+TCK-20102,Sunita Kumar,ticket_user102@globalinfra.net,Technical Login Error,Amit Kulkarni,2026-10-08 09:15:30,71828 56053,Closed
+TCK-20103,Sunita Sharma,ticket_user103@globalinfra.net,Account Closure,Aanya Reddy,2026-10-15 09:15:30,9067368205,Closed
+TCK-20104,Myra Nair,ticket_user104@yahoo.co.in,Technical Login Error,Sai Gupta,2026-10-21 09:15:30,8521650587,Resolved
+TCK-20105,Aanya Menon,ticket_user105@outlook.com,Billing Discrepancy,Riya Iyer,2026-10-03 09:15:30,75967-90898,Resolved
+TCK-20106,Ayaan Kulkarni,ticket_user106@cybercorp.org,Billing Discrepancy,Sai Nair,2026-10-02 09:15:30,80938-69484,In-Progress
+TCK-20107,Ishaan Pillai,ticket_user107@fintechvault.com,Billing Discrepancy,Rajesh Patel,2026-10-10 09:15:30,+91 87887 07152,Closed
+TCK-20108,Pari Joshi,ticket_user108@globalinfra.net,Technical Login Error,Myra Iyer,2026-10-01 09:15:30,09461917798,Closed
+TCK-20109,Myra Nair,ticket_user109@techsecure.co.in,Account Closure,Vikram Nair,2026-10-05 09:15:30,08893708580,In-Progress
+TCK-20110,Pooja Gupta,ticket_user110@fintechvault.com,Billing Discrepancy,Vikram Deshmukh,2026-10-01 09:15:30,+91 86695 79001,Resolved
+TCK-20111,Suresh Bhatt,ticket_user111@outlook.com,KYC Document Clarification,Priya Mehta,2026-10-09 09:15:30,82867 96325,Resolved
+TCK-20112,Sai Gupta,ticket_user112@outlook.com,KYC Document Clarification,Deepa Joshi,2026-10-08 09:15:30,+91 78915 62415,Resolved
+TCK-20113,Sunita Kumar,ticket_user113@outlook.com,KYC Document Clarification,Aanya Iyer,2026-10-19 09:15:30,+91 76933 58951,Open
+TCK-20114,Myra Joshi,ticket_user114@fintechvault.com,KYC Document Clarification,Aarav Kumar,2026-10-17 09:15:30,+91 86850 95744,Open
+TCK-20115,Reyansh Chatterjee,ticket_user115@yahoo.co.in,Billing Discrepancy,Meena Reddy,2026-10-16 09:15:30,9203859340,Resolved
+TCK-20116,Reyansh Joshi,ticket_user116@cybercorp.org,Billing Discrepancy,Diya Chatterjee,2026-10-15 09:15:30,06553132593,Closed
+TCK-20117,Sunita Choudhury,ticket_user117@yahoo.co.in,Technical Login Error,Deepa Kulkarni,2026-10-15 09:15:30,+91-80094-21410,In-Progress
+TCK-20118,Pari Joshi,ticket_user118@yahoo.co.in,Account Closure,Myra Verma,2026-10-20 09:15:30,+91-77045-23888,Closed
+TCK-20119,Sai Nair,ticket_user119@fintechvault.com,Account Closure,Aadhya Verma,2026-10-11 09:15:30,97874 42275,Resolved

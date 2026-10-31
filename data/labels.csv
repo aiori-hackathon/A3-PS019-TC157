@@ -1,0 +1,69 @@
+dataset_name,table_name,column_name,ground_truth_class,is_pii,description_note
+customers_messy.csv,customers_messy,cust_id,Non-PII,False,Alphanumeric internal synthetic customer surrogate key
+customers_messy.csv,customers_messy,full_name,Name,True,Customer individual full name with honorifics
+customers_messy.csv,customers_messy,user_email,Email,True,Personal customer email address
+customers_messy.csv,customers_messy,contact_token,Phone,True,Misleading column name containing Indian mobile numbers
+customers_messy.csv,customers_messy,bday,Date of Birth,True,Individual birthdate with mixed date formats
+customers_messy.csv,customers_messy,pan_card,Government ID,True,Indian statutory PAN tax identifier
+customers_messy.csv,customers_messy,aadhaar_num,Government ID,True,12-digit Indian Aadhaar with Verhoeff check digits
+customers_messy.csv,customers_messy,temp_notes,Non-PII,False,Sparse internal notes column with nulls
+customers_messy.csv,customers_messy,last_login_epoch,Non-PII,False,Epoch timestamp of recent login session
+employees_hr.csv,employees_hr,emp_code,Non-PII,False,Internal employee employee badge alphanumeric code
+employees_hr.csv,employees_hr,emp_name,Name,True,Employee legal full name
+employees_hr.csv,employees_hr,work_email,Email,True,Corporate business email address
+employees_hr.csv,employees_hr,mobile_no,Phone,True,Cellular phone number of employee
+employees_hr.csv,employees_hr,date_of_birth,Date of Birth,True,Employee birth date
+employees_hr.csv,employees_hr,tax_identifier,Government ID,True,Permanent Account Number (PAN)
+employees_hr.csv,employees_hr,salary_band,Non-PII,False,Internal paygrade classification code
+employees_hr.csv,employees_hr,department,Non-PII,False,Organizational department unit
+employees_hr.csv,employees_hr,emergency_contact,Phone,True,Emergency mobile contact number
+transactions_logs.csv,transactions_logs,txn_id,Non-PII,False,Transaction reference UUID
+transactions_logs.csv,transactions_logs,product_name,Non-PII,False,Decoy column: contains 'name' token but represents commercial hardware items
+transactions_logs.csv,transactions_logs,order_date,Non-PII,False,"Decoy date: order fulfillment timestamp, not person's birthdate"
+transactions_logs.csv,transactions_logs,delivery_pincode,Non-PII,False,Postal geographic area routing code
+transactions_logs.csv,transactions_logs,payment_reference,Non-PII,False,Payment gateway alphanumeric transaction token
+transactions_logs.csv,transactions_logs,recipient_contact,Phone,True,Customer delivery recipient phone number
+transactions_logs.csv,transactions_logs,buyer_email,Email,True,Buyer personal billing email
+transactions_logs.csv,transactions_logs,tracking_num,Non-PII,False,Decoy 10-digit package tracking code starting with 1-3
+kyc_onboarding.csv,kyc_onboarding,applicant_id,Non-PII,False,Synthetic applicant identifier
+kyc_onboarding.csv,kyc_onboarding,applicant_name,Name,True,Customer applicant legal name
+kyc_onboarding.csv,kyc_onboarding,contact_mobile,Phone,True,Applicant mobile contact
+kyc_onboarding.csv,kyc_onboarding,applicant_dob,Date of Birth,True,Applicant birthdate for age qualification
+kyc_onboarding.csv,kyc_onboarding,identity_doc_number,Government ID,True,Aadhaar UIDAI statutory number with Verhoeff checksum
+kyc_onboarding.csv,kyc_onboarding,pan_number,Government ID,True,Permanent Account Number
+kyc_onboarding.csv,kyc_onboarding,id_type,Non-PII,False,Document category tag string
+kyc_onboarding.csv,kyc_onboarding,verification_timestamp,Non-PII,False,Audit log timestamp
+kyc_onboarding.csv,kyc_onboarding,score_credit,Non-PII,False,Numerical bureau credit score rating
+support_tickets.csv,support_tickets,ticket_id,Non-PII,False,Helpdesk ticket incident reference ID
+support_tickets.csv,support_tickets,customer_name,Name,True,Customer requester full name
+support_tickets.csv,support_tickets,registered_email,Email,True,Customer account email address
+support_tickets.csv,support_tickets,ticket_category,Non-PII,False,Incident issue categorization taxonomy
+support_tickets.csv,support_tickets,assigned_agent,Name,True,Support engineer employee personal name
+support_tickets.csv,support_tickets,created_at,Non-PII,False,Ticket submission timestamp
+support_tickets.csv,support_tickets,phone_support_num,Phone,True,Inbound telephone contact number
+support_tickets.csv,support_tickets,resolution_status,Non-PII,False,Ticket workflow status flag
+enterprise_vault.db,user_profiles,user_id,Non-PII,False,Integer primary database key
+enterprise_vault.db,user_profiles,full_name,Name,True,User personal full name
+enterprise_vault.db,user_profiles,primary_email,Email,True,Account primary email
+enterprise_vault.db,user_profiles,phone_number,Phone,True,Primary mobile number
+enterprise_vault.db,user_profiles,birthdate,Date of Birth,True,User birthdate
+enterprise_vault.db,user_profiles,aadhaar_vault_ref,Government ID,True,12-digit Aadhaar UID number
+enterprise_vault.db,user_profiles,account_status,Non-PII,False,Account lifecycle status string
+enterprise_vault.db,billing_accounts,account_id,Non-PII,False,Billing account identifier code
+enterprise_vault.db,billing_accounts,billing_contact_name,Name,True,Individual billing representative name
+enterprise_vault.db,billing_accounts,billing_email,Email,True,Commercial invoice dispatch email
+enterprise_vault.db,billing_accounts,pan_id,Government ID,True,Statutory Indian PAN
+enterprise_vault.db,billing_accounts,currency_code,Non-PII,False,ISO currency code symbol
+enterprise_vault.db,billing_accounts,tax_reg_no,Government ID,True,Tax registration PAN identifier
+enterprise_vault.db,activity_telemetry,session_id,Non-PII,False,Browser web session token
+enterprise_vault.db,activity_telemetry,ip_address,Non-PII,False,Network telemetry IP address (technical telemetry)
+enterprise_vault.db,activity_telemetry,user_agent,Non-PII,False,Client browser technical user agent string
+enterprise_vault.db,activity_telemetry,event_timestamp,Non-PII,False,Telemetry event execution timestamp
+enterprise_vault.db,activity_telemetry,action_name,Non-PII,False,Application telemetry event trigger action
+enterprise_vault.db,activity_telemetry,device_type,Non-PII,False,Hardware device form factor
+enterprise_vault.db,vendor_registry,vendor_id,Non-PII,False,Supplier ERP master identifier
+enterprise_vault.db,vendor_registry,vendor_company_name,Non-PII,False,"Decoy name: Corporate entity legal name, not an individual human person"
+enterprise_vault.db,vendor_registry,contact_person,Name,True,Vendor point of contact representative personal name
+enterprise_vault.db,vendor_registry,official_email,Email,True,Business contact email address
+enterprise_vault.db,vendor_registry,helpline_phone,Phone,True,Supplier telephone helpline
+enterprise_vault.db,vendor_registry,incorporation_date,Non-PII,False,"Decoy date: corporate business founding date, not human birthdate"
